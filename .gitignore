@@ -1,0 +1,8 @@
+.swp
+.*.swp
+Makefile
+*.o
+*.log
+*.bundle
+*.so
+
