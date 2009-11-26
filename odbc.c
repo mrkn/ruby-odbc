@@ -13,9 +13,6 @@
 
 #undef ODBCVER
 
-#if defined(_WIN32) || defined(__CYGWIN32__) || defined(__MINGW32__)
-#include <windows.h>
-#endif
 #include <stdarg.h>
 #include <ctype.h>
 #include "ruby.h"
